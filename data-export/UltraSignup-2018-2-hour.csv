@@ -1,0 +1,26 @@
+place,distance,first,last,age,gender,city,state
+1,11,Cole,Stoner,NA,Male,Pekin,IL
+1,11,Tim,Leichtenberg,44,Male,Pekin,IL
+1,11,Hassen,Drissi,NA,Male,NA,NA
+4,10.5,Cody,Renshaw,37,Male,NA,IL
+5,10,Mike,Kelsey,41,Male,Washington,IL
+6,9.5,Landen,Kienitz,NA,Male,NA,NA
+6,9.5,Brandon,Bowlan,NA,Male,NA,NA
+6,9,Tana,Utley,NA,Female,Washington,IL
+6,9,Jim,Stanley,45,Male,Chillicothe,IL
+6,9,Mitch,Hurst,37,Male,Delavan,IL
+11,8.5,Christa,Hanna,26,Female,Marquette Heights,IL
+11,8.5,Chris,Dierker,63,Male,Peoria,IL
+13,8,Jill,Moser,43,Female,Morton,IL
+14,7.5,Phillip,Heinz,57,Male,Pekin,IL
+15,7,Jay,Kautz,27,Male,Peoria,IL
+16,6.5,Clarice,Chick,41,Female,Pekin,IL
+16,6.5,Lupe,Martinez,49,Male,Peoria,IL
+16,6.5,Lynette,Lipski,NA,Female,NA,NA
+16,6.5,Joe,Hartwig,NA,Male,NA,NA
+20,6,Aiden,Renshaw,NA,Male,NA,NA
+20,6,Beth,McCrory,41,Female,Dixon,IL
+22,5.5,Reagan,Wood,NA,Female,NA,NA
+23,5,Robyn,Weidman,33,Female,Dunlap,IL
+24,2,Hope,Sanders,NA,Female,NA,NA
+24,2,Heidi,Rhea,NA,Female,NA,NA

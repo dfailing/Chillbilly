@@ -1,0 +1,26 @@
+---
+title: "Chillbilly Race results"
+
+output: pdf_document
+---
+
+```{r setup}
+library(tidyverse)
+```
+
+```{r data-pull}
+```
+
+```{r data-load}
+
+```
+
+```{r data-prep}
+
+```
+
+Inputs: 
+Annual race results - person w/UUID, distance, time, race date?
+
+Outputs:
+Standardize the summaries - most miles, most years participated, fastest pace, course records (Each summary - for all time and by gender)

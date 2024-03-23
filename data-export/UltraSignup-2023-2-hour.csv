@@ -1,0 +1,48 @@
+place,distance,first,last,age,gender,city,state
+1,13.5,John,Havenga,39,Male,West Peoria,IL
+2,13,Corby,Burkett,49,Male,Sterling,IL
+3,11.5,Daniela,Harrison,40,Female,Princeville,IL
+4,11,Aaron,McDonald,50,Male,Peoria,IL
+4,11,Amy,Nutial,46,Female,Dixon,IL
+6,10.5,Cole,Stoner,35,Male,Pekin,IL
+6,10.5,Rachel,Kilby,27,Female,Morton,IL
+8,10,Bradley,Schreiner,29,Male,Princeville,IL
+8,10,Tim,Swanson,41,Male,Peoria,IL
+10,9.5,Steve,Frankel,53,Male,Aurora,IL
+10,9.5,Kevin,Mathewson,49,Male,Bartonville,IL
+10,9.5,Matt,Nutial,48,Male,Dixon,IL
+13,9,Jack,Cook,51,Male,Washington,IL
+13,9,Krista,Davids,48,Female,Union Grove,WI
+13,9,Amy,Lee,53,Female,Morton,IL
+16,8.5,John,Knoll,NA,Male,NA,NA
+16,8.5,Lupe,Martinez,54,Male,Emden,IL
+16,8.5,Gerald,Stock,54,Male,Morrison,IL
+19,8,Rachel,Carlson,34,Female,Peoria,IL
+19,8,Susan,Hohn,69,Female,Rock Falls,IL
+19,8,Donna,Jasper,54,Female,Dixon,IL
+19,8,Crystal,Radovanovic,39,Female,Dunlap,IL
+19,8,Ben,Tift,30,Male,Peoria,IL
+24,7.5,Angi,McMurtrey,47,Female,Metamora,IL
+24,7.5,Robyn,Weidman,38,Female,Dunlap,IL
+26,7,Rebecca,Bailey,56,Female,Peoria,IL
+26,7,Amy,Bloede,56,Female,Morrison,IL
+26,7,David,Failing,37,Male,Port Byron,IL
+26,7,Brian,Foster,NA,Male,Peoria,IL
+26,7,Erich,Smith,54,Male,Peoria,IL
+26,7,Kelli,Vandeschraaf,40,Female,Peoria,IL
+32,6.5,Tony,Bartlett,45,Male,Marquette Heights,IL
+32,6.5,Phillip,Trompeter,51,Male,Germantown Hills,IL
+34,6,Alex,Garza,33,Male,Dixon,IL
+34,6,Chelsea,Hermacinski,33,Female,Marquette Heights,IL
+36,5.5,Amy,Frankel,52,Female,Aurora,IL
+37,5,Candace,Buikema,52,Female,Rock Falls,IL
+37,5,Linda,Elliott,55,Female,Peoria,IL
+39,4.5,Golda,Ewalt,55,Female,Peoria,IL
+39,4.5,Laura,Mangrum,46,Female,Dixon,IL
+39,4.5,Beth,McCrory,46,Female,Dixon,IL
+39,4.5,Erin,Meyer,NA,Female,NA,NA
+39,4.5,Stan,Winterroth,74,Male,Bloomington,IL
+44,4,Tara,Mayner,52,Female,Bloomington,IL
+44,4,Dan,Stumpenhorst,65,Female,Franklin Grove,IL
+44,4,Sandy,Stumpenhorst,65,Male,Franklin Grove,IL
+47,2.5,Bill,Holmes,75,Male,Edelstein,IL

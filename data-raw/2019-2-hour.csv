@@ -1,0 +1,20 @@
+Year,Event,Time,Overall Place,First,Last,Distance,Age,Gender,State,City,UltraSignup,Note
+2019,2 Hour,2,1,Trevor,Daly,10.5,29,M,IL,Pekin,https://ultrasignup.com/results_participant.aspx?fname=Trevor&lname=Daly,
+2019,2 Hour,2,1,Hassen,Drissi,10.5,,M,IL,,https://ultrasignup.com/results_participant.aspx?fname=Hassen&lname=Drissi,Missing data from UltraSignup
+2019,2 Hour,2,1,Mike,Kelsey,10.5,42,M,IL,Washington,https://ultrasignup.com/results_participant.aspx?fname=Mike&lname=Kelsey,Missing data from UltraSignup
+2019,2 Hour,2,1,Maria,Stedwill,10.5,15,F,IL,Dunlap,https://ultrasignup.com/results_participant.aspx?fname=Maria&lname=Stedwill,
+2019,2 Hour,2,5,Tim,Leichtenberg,10,45,M,IL,Pekin,https://ultrasignup.com/results_participant.aspx?fname=Tim&lname=Leichtenberg&age=45,Missing data from UltraSignup. Fixed last name (Lichtenberg)
+2019,2 Hour,2,6,Mitch,Hurst,9.75,38,M,IL,Delavan,https://ultrasignup.com/results_participant.aspx?fname=Mitchell&lname=Hurst,Fixed first name (Mithcell)
+2019,2 Hour,2,7,Terry,Koser,9,,M,IL,Edelstein,https://ultrasignup.com/results_participant.aspx?fname=Terry&lname=Koser,
+2019,2 Hour,2,7,Austin,St George,9,27,M,IL,Peoria,https://ultrasignup.com/results_participant.aspx?fname=Austin&lname=St%20George,
+2019,2 Hour,2,9,Jim,Stanley,8.5,46,M,IL,Chillicothe,https://ultrasignup.com/results_participant.aspx?fname=Jim&lname=Stanley,
+2019,2 Hour,2,10,Jack,Cook,8,47,M,Il,Washington,https://ultrasignup.com/results_participant.aspx?fname=Jack&lname=Cook,
+2019,2 Hour,2,11,Charity,Stanley,7,,F,IL,,https://ultrasignup.com/results_participant.aspx?fname=Cherity&lname=Stanley,Fixed first name (Cherity)
+2019,2 Hour,2,12,Sara,Boerma,6.5,35,F,IL,Hartsburg,https://ultrasignup.com/results_participant.aspx?fname=Sara&lname=Boerma,
+2019,2 Hour,2,12,Lupe,Martinez,6.5,50,M,IL,Peoria,https://ultrasignup.com/results_participant.aspx?fname=Lupe&lname=Martinez,
+2019,2 Hour,2,12,Kayla,Mayer,6.5,,F,,,https://ultrasignup.com/results_participant.aspx?fname=Kayla&lname=Mayer,
+2019,2 Hour,2,12,Robyn,Weidman,6.5,34,F,IL,Dunlap,https://ultrasignup.com/results_participant.aspx?fname=Robyn&lname=Konen,Missing data filled in with Registration page. Fixed last name (Konen)
+2019,2 Hour,2,12,Shane,Westen,6.5,34,M,IL,Emden,https://ultrasignup.com/results_participant.aspx?fname=Shane&lname=Westen,
+2019,2 Hour,2,17,Adam,Mathewson,5,11,M,IL,Bartonville,,
+2019,2 Hour,2,17,Kevin,Mathewson,5,45,M,IL,Bartonville,https://ultrasignup.com/results_participant.aspx?fname=Kevin&lname=Mathewson,
+2019,2 Hour,2,19,Bill,Holmes,4,71,M,IL,Edelstein,https://ultrasignup.com/results_participant.aspx?fname=Bill&lname=Holmes,

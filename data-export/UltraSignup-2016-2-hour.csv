@@ -1,0 +1,21 @@
+place,distance,first,last,age,gender,city,state
+1,12,Jason,Hurst,NA,Male,NA,IL
+2,11,Matt,Robinson,39,Male,Peoria,IL
+3,10.5,Jim,Jackson,45,Male,Pekin,IL
+3,10.5,Jeremy,Staats,35,Male,Sterling,IL
+3,10.5,Cole,Stoner,28,Male,Pekin,IL
+6,9.5,Tim,Lindner,49,Male,Morton,IL
+7,9,Carolyn,Sutter,54,Female,Bloomington,IL
+8,8.5,Matt,Hohulin,52,Male,NA,NA
+9,8,Maggie,Daly,NA,Female,NA,NA
+10,7.5,Sheila,Hansen,62,Female,Peoria,IL
+11,7,Jaime,Zaplatosch,38,Female,Berwyn,IL
+12,6.5,Tom,Nieukirk,43,Male,NA,NA
+12,6.5,Mark,Wells,44,Male,Metamora,IL
+14,6,Bill,Holmes,68,Male,Edelstein,IL
+14,6,Shalonda,Schafer,38,Female,Mackinaw,IL
+16,5.5,Rhonda,Heinz,51,Female,Pekin,IL
+17,5,Therese,Brink,58,Female,Peoria,IL
+18,4.5,Kristen,Cowan,NA,Female,NA,NA
+18,4.5,Jackie,Harrmann,54,Female,East Peoria,IL
+20,2,Mike,Lambert-Cwerenz,NA,Male,Glendale Heights,IL

@@ -1,0 +1,14 @@
+name: Chillbilly
+title: Chillbilly
+username:
+account: runphd
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9328410
+bundleId: 8378102
+url: https://runphd.shinyapps.io/Chillbilly/
+when: 1710554431.74373
+lastSyncTime: 1710554431.74375
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: R/.DS_Store|report.Rmd|www/.DS_Store|zzz-archive/99_scratch.R|zzz-archive/zzz-data-cleaning.R

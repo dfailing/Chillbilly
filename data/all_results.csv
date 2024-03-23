@@ -1,0 +1,412 @@
+Year,Event,Place,First,Last,City,State,Age,Gender,DP,Distance
+2024,8 Hour,1,James,Solomon,Villa Park,IL,33,M,1,40
+2024,8 Hour,2,Mark,Holcomb,Bloomington,IL,40,M,2,39.5
+2024,8 Hour,3,Michael,Braun,Hudson,IL,28,M,3,37
+2024,8 Hour,4,Morgan,Mader,Villa Park,IL,39,F,1,32.5
+2024,8 Hour,4,Dave,Pettett,NA,IL,43,M,4,32.5
+2024,8 Hour,4,Amy,Reau,Metamora,IL,47,F,1,32.5
+2024,8 Hour,5,Brook,Stanbary,Putnam,IL,49,M,5,31
+2024,8 Hour,6,Todd,Baker,Morton,IL,49,M,6,30.5
+2024,8 Hour,7,Christopher,Wood,Morton,IL,27,M,7,28.5
+2024,8 Hour,8,Dave,Hosbrough,Creve Coeur,IL,46,M,8,27.5
+2024,8 Hour,8,Devin,Jefferson,Clinton,IL,26,M,8,27.5
+2024,8 Hour,9,Rob,Judd,Bloomington,IL,48,M,9,24.5
+2024,8 Hour,10,Andrew,Janesko,Lawrence,KS,27,M,10,24
+2024,8 Hour,10,Spencer,Swearingen,Morton,IL,45,M,10,24
+2024,8 Hour,11,Jared,Alig,Metamora,IL,44,M,11,22
+2024,8 Hour,12,Jason,Young,Chillicothe,IL,43,M,12,20
+2024,8 Hour,13,Matt,Hajny,Washington,IL,47,M,13,16
+2024,8 Hour,14,Jim,Arnold,La Grange,IL,58,M,14,14
+2024,8 Hour,14,Frank,Hardy,Marquette Heights,IL,46,M,14,14
+2024,8 Hour,15,Jill,Moser,Morton,IL,49,F,2,12
+2024,8 Hour,16,Abby,Bokus,Normal,IL,49,F,3,10
+2024,8 Hour,16,Brandon,Endres,East Peoria,IL,33,M,15,10
+2024,8 Hour,16,Erin,Furimsky,Bloomington,IL,48,F,3,10
+2024,8 Hour,16,Claire,Hedden,Normal,IL,46,F,3,10
+2024,8 Hour,16,Mary,Stanbary,Putnam,IL,47,F,3,10
+2024,8 Hour,16,Stan,Winterroth,Bloomington,IL,75,M,15,10
+2024,8 Hour,17,Julia,Carrell,East Peoria,IL,43,F,4,6
+2024,2 Hour,1,John,Havenga,West Peoria,IL,39,M,1,11.5
+2024,2 Hour,2,Ben,Cantrell,Chillicothe,IL,38,M,2,10
+2024,2 Hour,2,Hassen,Drissi,Chillicothe,IL,38,M,2,10
+2024,2 Hour,3,Chad,Barnes,Peoria,IL,51,M,3,9
+2024,2 Hour,3,Lupe,Martinez,Peoria,IL,55,M,3,9
+2024,2 Hour,4,Jack,Cook,Washington,IL,51,M,4,8
+2024,2 Hour,5,Michael,Hammond,Canton,IL,44,M,5,7.5
+2024,2 Hour,6,Ashley,Lammi,Rockford,IL,34,F,1,7
+2024,2 Hour,6,James,Stanley,Chillicothe,IL,51,M,6,7
+2024,2 Hour,7,Troy,Pequette,Washington,IL,53,M,7,6.5
+2024,2 Hour,7,Charity,Stanley,Chillicothe,IL,53,F,2,6.5
+2024,2 Hour,8,Harley,Brooks,Champaign,IL,54,M,8,5.5
+2024,2 Hour,9,Golda,Ewalt,Peoria,IL,56,F,3,5
+2024,2 Hour,10,Chad,Stewart,East Peoria,IL,51,M,9,4.5
+2024,2 Hour,10,Jessica,Stewart,East Peoria,IL,48,F,4,4.5
+2024,2 Hour,11,Brian,Foster,Peoria,IL,40,M,10,4
+2024,2 Hour,11,Cathy,Stella,East Peoria,IL,53,F,5,4
+2024,2 Hour,11,Kelli,Vandeschraff,Peoria,IL,41,F,5,4
+2023,8 Hour,1,James,Solomon,Villa Park,IL,32,M,1,45.5
+2023,8 Hour,2,Matt,Hajny,Washington,IL,46,M,2,41
+2023,8 Hour,3,Jason,Midlock,Joliet,IL,38,M,3,40.5
+2023,8 Hour,4,Michael,Braun,Hudson,IL,27,M,4,40
+2023,8 Hour,5,Andy,Bloom,Pekin,IL,36,M,5,37.5
+2023,8 Hour,6,Matthias,Kemmeren,Dixon,IL,44,M,6,37
+2023,8 Hour,6,Rachel,Reyes,Joliet,IL,35,F,1,37
+2023,8 Hour,8,Nathan,Castillo,Sterling,IL,32,M,7,36.5
+2023,8 Hour,9,Jim,Katter,NA,NA,NA,M,8,34.5
+2023,8 Hour,9,Brook,Stanbary,Putnam,IL,48,M,8,34.5
+2023,8 Hour,11,Chad,Hazelwood,Pekin,IL,51,M,9,33
+2023,8 Hour,12,Hassen,Drissi,NA,IL,NA,M,10,32.5
+2023,8 Hour,13,Jeff,Brown,Sterling,IL,40,M,11,31.5
+2023,8 Hour,13,Rob,Judd,Bloomington,IL,47,M,11,31.5
+2023,8 Hour,15,Tara,Flesch,Princeton,IA,43,F,2,31
+2023,8 Hour,16,Dave,Hosbrough,Creve Coeur,IL,45,M,12,30.5
+2023,8 Hour,16,John,Larson,Divernon,IL,42,M,12,30.5
+2023,8 Hour,18,Ginger,Aschenbrenner,Athens,IL,45,F,3,30
+2023,8 Hour,18,Chris,Braun,Madison,WI,25,M,13,30
+2023,8 Hour,18,Erin,Montgomery,Clinton,IA,43,F,3,30
+2023,8 Hour,21,Keith,Aurand,Dixon,IL,57,M,14,29
+2023,8 Hour,22,Erica,Heshelman,Janesville,WI,41,F,4,28
+2023,8 Hour,23,Paul,Wilkerson,Metamora,IL,46,M,15,24.5
+2023,8 Hour,24,Jim,Arnold,La Grange,IL,57,M,16,23.5
+2023,8 Hour,24,Elizabeth,Lara,Glendale,WI,48,F,5,23.5
+2023,8 Hour,26,Frank,Hardy,NA,IL,45,M,17,22
+2023,8 Hour,27,Doug,Camp,Fort Wayne,IN,52,M,18,20
+2023,8 Hour,27,Mary,Stanbary,Putnam,IL,46,F,6,20
+2023,8 Hour,29,Racine,Lambert-Cwerenz,Glendale Heights,IL,61,F,7,19.5
+2023,8 Hour,30,Jill,Moser,Morton,IL,48,F,8,18.5
+2023,8 Hour,31,Erik,Savickas,NA,NA,NA,M,19,18
+2023,8 Hour,31,Reagan,Wood,NA,NA,NA,F,9,18
+2023,8 Hour,33,Dawn,Nailor,Winnebago,IL,53,F,10,16.5
+2023,8 Hour,33,Scott,Nailor,Winnebago,IL,51,M,20,16.5
+2023,8 Hour,35,Annie,Newman,Brownsburg,IN,49,F,11,14
+2023,8 Hour,36,Vivian,Briscoe,DeKalb,IL,61,F,12,13
+2023,8 Hour,37,Nancy,Braun,Towanda,IL,59,F,13,12
+2023,8 Hour,38,Bob,McCrory,Dixon,IL,NA,M,21,10
+2023,8 Hour,38,Troy,Pequette,Washington,IL,52,M,21,10
+2023,8 Hour,40,Lori,Cepa,Chicago,IL,37,F,14,8
+2023,8 Hour,40,Sophie,Russell,Peoria,IL,NA,F,14,8
+2023,8 Hour,42,Linda,Cepa,Homer Glen,IL,66,F,15,6
+2023,8 Hour,43,Therese,Brink,Peoria,IL,65,F,16,4
+2023,2 Hour,1,John,Havenga,West Peoria,IL,39,M,1,13.5
+2023,2 Hour,2,Corby,Burkett,Sterling,IL,49,M,2,13
+2023,2 Hour,3,Daniela,Harrison,Princeville,IL,40,F,1,11.5
+2023,2 Hour,4,Aaron,McDonald,Peoria,IL,50,M,3,11
+2023,2 Hour,4,Amy,Nutial,Dixon,IL,46,F,2,11
+2023,2 Hour,6,Rachel,Kilby,Morton,IL,27,F,3,10.5
+2023,2 Hour,6,Cole,Stoner,Pekin,IL,35,M,4,10.5
+2023,2 Hour,8,Bradley,Schreiner,Princeville,IL,29,M,5,10
+2023,2 Hour,8,Tim,Swanson,Peoria,IL,41,M,5,10
+2023,2 Hour,10,Steve,Frankel,Aurora,IL,53,M,6,9.5
+2023,2 Hour,10,Kevin,Mathewson,Bartonville,IL,49,M,6,9.5
+2023,2 Hour,10,Matt,Nutial,Dixon,IL,48,M,6,9.5
+2023,2 Hour,13,Jack,Cook,Washington,IL,51,M,7,9
+2023,2 Hour,13,Krista,Davids,Union Grove,WI,48,F,4,9
+2023,2 Hour,13,Amy,Lee,Morton,IL,53,F,4,9
+2023,2 Hour,16,John,Knoll,NA,NA,NA,M,8,8.5
+2023,2 Hour,16,Lupe,Martinez,Emden,IL,54,M,8,8.5
+2023,2 Hour,16,Gerald,Stock,Morrison,IL,54,M,8,8.5
+2023,2 Hour,19,Rachel,Carlson,Peoria,IL,34,F,5,8
+2023,2 Hour,19,Susan,Hohn,Rock Falls,IL,69,F,5,8
+2023,2 Hour,19,Donna,Jasper,Dixon,IL,54,F,5,8
+2023,2 Hour,19,Crystal,Radovanovic,Dunlap,IL,39,F,5,8
+2023,2 Hour,19,Ben,Tift,Peoria,IL,30,M,9,8
+2023,2 Hour,24,Angi,McMurtrey,Metamora,IL,47,F,6,7.5
+2023,2 Hour,24,Robyn,Weidman,Dunlap,IL,38,F,6,7.5
+2023,2 Hour,26,Rebecca,Bailey,Peoria,IL,56,F,7,7
+2023,2 Hour,26,Amy,Bloede,Morrison,IL,56,F,7,7
+2023,2 Hour,26,David,Failing,Port Byron,IL,37,M,10,7
+2023,2 Hour,26,Brian,Foster,Peoria,IL,NA,M,10,7
+2023,2 Hour,26,Erich,Smith,Peoria,IL,54,M,10,7
+2023,2 Hour,26,Kelli,Vandeschraaf,Peoria,IL,40,F,7,7
+2023,2 Hour,32,Tony,Bartlett,Marquette Heights,IL,45,M,11,6.5
+2023,2 Hour,32,Phillip,Trompeter,Germantown Hills,IL,51,M,11,6.5
+2023,2 Hour,34,Alex,Garza,Dixon,IL,33,M,12,6
+2023,2 Hour,34,Chelsea,Hermacinski,Marquette Heights,IL,33,F,8,6
+2023,2 Hour,36,Amy,Frankel,Aurora,IL,52,F,9,5.5
+2023,2 Hour,37,Candace,Buikema,Rock Falls,IL,52,F,10,5
+2023,2 Hour,37,Linda,Elliott,Peoria,IL,55,F,10,5
+2023,2 Hour,39,Golda,Ewalt,Peoria,IL,55,F,11,4.5
+2023,2 Hour,39,Laura,Mangrum,Dixon,IL,46,F,11,4.5
+2023,2 Hour,39,Beth,McCrory,Dixon,IL,46,F,11,4.5
+2023,2 Hour,39,Erin,Meyer,NA,NA,NA,F,11,4.5
+2023,2 Hour,39,Stan,Winterroth,Bloomington,IL,74,M,13,4.5
+2023,2 Hour,44,Tara,Mayner,Bloomington,IL,52,F,12,4
+2023,2 Hour,44,Dan,Stumpenhorst,Franklin Grove,IL,65,F,12,4
+2023,2 Hour,44,Sandy,Stumpenhorst,Franklin Grove,IL,65,M,14,4
+2023,2 Hour,47,Bill,Holmes,Edelstein,IL,75,M,15,2.5
+2022,8 Hour,1,Jason,Midlock,Joliet,IL,37,M,1,39.5
+2022,8 Hour,2,Nathan,Castillo,Sterling,IL,32,M,2,36.5
+2022,8 Hour,3,Seth,Killey,Peoria,IL,41,M,3,34
+2022,8 Hour,3,Nathan,Ramquist,Peoria,IL,40,M,3,34
+2022,8 Hour,3,Rachel,Reyes,Joliet,IL,34,F,1,34
+2022,8 Hour,6,Gabe,Trevino,Peoria,IL,44,M,4,33.5
+2022,8 Hour,7,John,Larson,Divernon,IL,41,M,5,30
+2022,8 Hour,8,Dave,Hosbrough,Creve Coeur,IL,44,M,6,29
+2022,8 Hour,9,Rob,Judd,Bloomington,IL,46,M,7,28
+2022,8 Hour,9,Sophie,Russell,Peoria,IL,34,F,2,28
+2022,8 Hour,11,Ginger,Aschenbrenner,Athens,IL,44,F,3,27.5
+2022,8 Hour,12,Keith,Aurand,Dixon,IL,56,M,8,27
+2022,8 Hour,13,Amanda,Turner,Morton,IL,38,F,4,25
+2022,8 Hour,14,Tara,Mayner,Bloomington,IL,51,F,5,22
+2022,8 Hour,15,Julia,Carrell,East Peoria,IL,41,F,6,21.5
+2022,8 Hour,16,Elaine,Lagoda,East Peoria,IL,62,F,7,16
+2022,8 Hour,17,Jill,Moser,Morton,IL,47,F,8,12
+2022,8 Hour,18,Jim,Briscoe,Dekalb,IL,62,M,9,10
+2022,8 Hour,18,Cody,Comstock,Pekin,IL,34,M,9,10
+2022,8 Hour,20,Vivian,Briscoe,DeKalb,IL,60,F,9,6
+2022,2 Hour,1,Dan,Blumhoff,Rock Falls,IL,38,M,1,12
+2022,2 Hour,2,Andrea,Summers,Franklin Grove,IL,39,F,1,10.5
+2022,2 Hour,3,Mike,Kelsey,Washington,IL,45,M,2,10
+2022,2 Hour,4,Tim,Swanson,Peoria,IL,40,M,3,9.5
+2022,2 Hour,5,Dan,Hartzler,Morton,IL,40,M,4,9
+2022,2 Hour,6,Charity,Stanley,Chillicothe,IL,51,F,2,8
+2022,2 Hour,6,Jim,Stanley,Chillicothe,IL,49,M,5,8
+2022,2 Hour,8,Lupe,Martinez,West Peoria,IL,53,M,6,7
+2022,2 Hour,8,Robyn,Weidman,NA,IL,NA,F,3,7
+2022,2 Hour,10,Stan,Winterroth,Bloomington,IL,73,M,7,5
+2022,2 Hour,11,Jack,Cook,Morton,IL,51,M,8,4
+2020,8 Hour,1,Mark,Holcomb,Bloomington,IL,36,M,1,39.5
+2020,8 Hour,2,Gabe,Trevino,Peoria,IL,42,M,2,35.5
+2020,8 Hour,3,Lyle,Block,East Peoria,IL,38,M,3,31.5
+2020,8 Hour,3,Anthony,DuBose,Chicago,IL,39,M,3,31.5
+2020,8 Hour,5,Chad,Hazelwood,NA,IL,NA,M,4,30.5
+2020,8 Hour,6,Bill,McFeeters,Pekin,IL,38,M,5,27.5
+2020,8 Hour,6,Lisa,Richars,Decatur,IL,43,F,1,27.5
+2020,8 Hour,8,Derek,Howald,Chillicothe,IL,46,M,6,27
+2020,8 Hour,9,Frank,Hardy,Marquette Heights,IL,NA,M,7,26
+2020,8 Hour,10,Jill,Moser,Morton,IL,45,F,2,23
+2020,8 Hour,11,Julia,Carrell,East Peoria,IL,39,F,3,21
+2020,8 Hour,12,Jim,Briscoe,Dekalb,IL,60,M,8,20
+2020,8 Hour,12,Bob,McCrory,Dixon,IL,49,M,8,20
+2020,8 Hour,14,Leeann,Leaks,Decatur,IL,42,F,4,19.5
+2020,8 Hour,15,Racine,Lambert-Cwerenz,Glendale Heights,IL,58,F,5,19
+2020,8 Hour,15,Tara,Mayner,Normal,IL,49,F,5,19
+2020,8 Hour,17,Dan,Hayden,Trivoli,IL,43,M,9,18
+2020,8 Hour,17,Kevin,Mathewson,Bartonville,IL,46,M,9,18
+2020,8 Hour,19,Phillip,Heinz,Pekin,IL,60,M,10,14
+2020,8 Hour,20,Therese,Brink,Peoria,IL,62,F,6,10
+2020,8 Hour,21,Joan,Grane,Peoria,IL,64,F,7,8
+2020,8 Hour,21,Bill,Harrmann,East Peoria,IL,56,M,11,8
+2020,8 Hour,21,Rhonda,Heinz,Pekin,IL,55,F,7,8
+2020,8 Hour,21,Leeanne,Oakley,Decatur,IL,49,F,7,8
+2020,8 Hour,25,Vivian,Briscoe,DeKalb,IL,58,F,8,6
+2020,2 Hour,1,Austin,St George,Peoria,IL,28,M,1,11
+2020,2 Hour,2,Mike,Kelsey,Washington,IL,43,M,2,10.5
+2020,2 Hour,2,Cory,Shoopman,NA,IL,NA,M,2,10.5
+2020,2 Hour,4,Pat,Racsa,NA,NA,NA,M,3,10
+2020,2 Hour,5,Bradley,Schreiner,Princeville,IL,26,M,4,9.5
+2020,2 Hour,5,Tim,Swanson,Peoria,IL,38,M,4,9.5
+2020,2 Hour,7,Lauren,Jordan,Chillicothe,IL,29,F,1,7.5
+2020,2 Hour,8,Leanne,Howald,Chillicothe,IL,44,F,2,7
+2020,2 Hour,9,Lupe,Martinez,Peoria,IL,51,M,5,6.5
+2020,2 Hour,9,Shane,Westen,Emden,IL,35,M,5,6.5
+2020,2 Hour,11,Rebecca,Bailey,NA,NA,NA,F,3,6
+2020,2 Hour,12,Mike,Lambert-Cwerenz,Glendale Heights,IL,55,M,6,2
+2019,8 Hour,1,Michael,Braun,Towanda,IL,23,M,1,32.5
+2019,8 Hour,2,Jim,Katter,NA,NA,NA,M,2,30.5
+2019,8 Hour,3,Lyle,Block,East Peoria,IL,37,M,3,26.5
+2019,8 Hour,3,DJ,Hanna,Marquette Heights,IL,31,M,3,26.5
+2019,8 Hour,5,Christa,Hanna,Marquette Heights,IL,27,F,1,26
+2019,8 Hour,6,Mary,Hosbrough,Washington,IL,46,F,2,24
+2019,8 Hour,7,Lee,Hosbrough,Washington,IL,47,M,4,20
+2019,8 Hour,8,Jim,Briscoe,Dekalb,IL,59,M,5,19.5
+2019,8 Hour,8,Bob,McCrory,Dixon,IL,48,M,5,19.5
+2019,8 Hour,10,Racine,Lambert-Cwerenz,Glendale Heights,IL,57,F,3,18
+2019,8 Hour,10,Becky,Leahy,Janesville,WI,44,F,3,18
+2019,8 Hour,10,Heather,Vree,Chicago,IL,38,F,3,18
+2019,8 Hour,13,Katey,Berg,Evanston,IL,40,F,4,16
+2019,8 Hour,14,Julia,Carrell,East Peoria,IL,38,F,5,12
+2019,8 Hour,14,Jennifer,Jacobsen-Wood,Princeville,IL,47,F,5,12
+2019,8 Hour,16,Vivian,Briscoe,DeKalb,IL,57,F,6,10.5
+2019,8 Hour,16,Beth,McCrory,Dixon,IL,42,F,6,10.5
+2019,8 Hour,18,Therese,Brink,Peoria,IL,61,F,7,10
+2019,8 Hour,19,Erica,Heshelman,Janesville,WI,37,F,8,8
+2019,8 Hour,19,Cole,Stoner,Pekin,IL,31,M,6,8
+2019,2 Hour,1,Trevor,Daly,Pekin,IL,29,M,1,10.5
+2019,2 Hour,1,Hassen,Drissi,NA,IL,NA,M,1,10.5
+2019,2 Hour,1,Mike,Kelsey,Washington,IL,42,M,1,10.5
+2019,2 Hour,1,Maria,Stedwill,Dunlap,IL,15,F,1,10.5
+2019,2 Hour,5,Tim,Leichtenberg,Pekin,IL,45,M,2,10
+2019,2 Hour,6,Mitch,Hurst,Delavan,IL,38,M,3,9.75
+2019,2 Hour,7,Terry,Koser,Edelstein,IL,NA,M,4,9
+2019,2 Hour,7,Austin,St George,Peoria,IL,27,M,4,9
+2019,2 Hour,9,Jim,Stanley,Chillicothe,IL,46,M,5,8.5
+2019,2 Hour,10,Jack,Cook,Washington,IL,47,M,6,8
+2019,2 Hour,11,Charity,Stanley,NA,IL,NA,F,2,7
+2019,2 Hour,12,Sara,Boerma,Hartsburg,IL,35,F,3,6.5
+2019,2 Hour,12,Lupe,Martinez,Peoria,IL,50,M,7,6.5
+2019,2 Hour,12,Kayla,Mayer,NA,NA,NA,F,3,6.5
+2019,2 Hour,12,Robyn,Weidman,Dunlap,IL,34,F,3,6.5
+2019,2 Hour,12,Shane,Westen,Emden,IL,34,M,7,6.5
+2019,2 Hour,17,Adam,Mathewson,Bartonville,IL,11,M,8,5
+2019,2 Hour,17,Kevin,Mathewson,Bartonville,IL,45,M,8,5
+2019,2 Hour,19,Bill,Holmes,Edelstein,IL,71,M,9,4
+2018,8 Hour,1,Joe,Miller,Springfield,IL,29,M,1,41.5
+2018,8 Hour,2,Jason,Midlock,Joliet,IL,33,M,2,39.5
+2018,8 Hour,3,Gabe,Trevino,Peoria,IL,40,M,3,37.5
+2018,8 Hour,4,James,Faford,Bradley,IL,54,M,4,36
+2018,8 Hour,4,David,Failing,Westmont,IL,32,M,4,36
+2018,8 Hour,6,Chad,Hazelwood,NA,IL,46,M,5,32
+2018,8 Hour,7,Keith,Aurand,Dixon,IL,52,M,6,30
+2018,8 Hour,7,Gwen,Murphy,West Chicago,IL,29,F,1,30
+2018,8 Hour,9,Michelle,Burton,Lombard,IL,39,F,2,29
+2018,8 Hour,9,Steve,Hammann,Muscatine,IA,62,M,7,29
+2018,8 Hour,11,DJ,Hanna,Marquette Heights,IL,30,M,8,28.5
+2018,8 Hour,12,Bob,McCrory,Dixon,IL,47,M,9,28
+2018,8 Hour,13,Jim,Arnold,La Grange,IL,52,M,10,27.5
+2018,8 Hour,13,Mary,Leonard,Manhattan,IL,36,F,3,27.5
+2018,8 Hour,15,Shane,Westen,Emden,IL,33,M,11,25.5
+2018,8 Hour,16,Chris,Silva,NA,IL,25,M,12,25
+2018,8 Hour,18,Racine,Lambert-Cwerenz,Glendale Heights,IL,56,F,4,23
+2018,8 Hour,18,Holly,Lindroth,Chicago,IL,32,F,4,23
+2018,8 Hour,18,Linda,Lopez,Chicago,IL,50,F,4,23
+2018,8 Hour,20,Arizona,Lagousakos,Chicago,IL,48,F,5,22.5
+2018,8 Hour,21,Bill,Harrmann,East Peoria,IL,54,M,13,21
+2018,8 Hour,22,Bill,Comstock,Pekin,IL,NA,M,14,19
+2018,8 Hour,22,Cody,Comstock,Pekin,IL,30,M,14,19
+2018,8 Hour,23,Sean,Ryan,Sterling,IL,44,M,15,18
+2018,8 Hour,24,Julia,Carrell,East Peoria,IL,37,F,6,16
+2018,8 Hour,28,Jim,Briscoe,DeKalb,IL,58,M,16,14
+2018,8 Hour,28,James,Middlemas,Mapleton,IL,45,M,16,14
+2018,8 Hour,28,Toby,Peplow,East Peoria,IL,NA,F,7,14
+2018,8 Hour,29,James,Thompson,East Peoria,IL,54,M,17,12.5
+2018,8 Hour,30,Therese,Brink,Peoria,IL,60,F,8,12
+2018,8 Hour,30,Christy,Dillard,Morton,IL,57,F,8,12
+2018,8 Hour,32,Stacy,Greenburg,Wheeling,IL,36,F,9,10
+2018,8 Hour,32,Mike,Lambert-Cwerenz,Glendale Heights,IL,NA,M,18,10
+2018,8 Hour,34,Jennifer,Jacobsen-Wood,Princeville,IL,46,F,10,5
+2018,2 Hour,1,Hassen,Drissi,NA,NA,NA,M,1,11
+2018,2 Hour,1,Tim,Leichtenberg,Pekin,IL,44,M,1,11
+2018,2 Hour,1,Cole,Stoner,Pekin,IL,NA,M,1,11
+2018,2 Hour,4,Cody,Renshaw,NA,IL,37,M,2,10.5
+2018,2 Hour,5,Mike,Kelsey,Washington,IL,41,M,3,10
+2018,2 Hour,6,Brandon,Bowlan,NA,NA,NA,M,4,9.5
+2018,2 Hour,6,Mitch,Hurst,Delavan,IL,37,M,4,9
+2018,2 Hour,6,Landen,Kienitz,NA,NA,NA,M,4,9.5
+2018,2 Hour,6,Jim,Stanley,Chillicothe,IL,45,M,4,9
+2018,2 Hour,6,Tana,Utley,Washington,IL,NA,F,1,9
+2018,2 Hour,11,Chris,Dierker,Peoria,IL,63,M,5,8.5
+2018,2 Hour,11,Christa,Hanna,Marquette Heights,IL,26,F,2,8.5
+2018,2 Hour,13,Jill,Moser,Morton,IL,43,F,3,8
+2018,2 Hour,14,Phillip,Heinz,Pekin,IL,57,M,6,7.5
+2018,2 Hour,15,Jay,Kautz,Peoria,IL,27,M,7,7
+2018,2 Hour,16,Clarice,Chick,Pekin,IL,41,F,4,6.5
+2018,2 Hour,16,Joe,Hartwig,NA,NA,NA,M,8,6.5
+2018,2 Hour,16,Lynette,Lipski,NA,NA,NA,F,4,6.5
+2018,2 Hour,16,Lupe,Martinez,Peoria,IL,49,M,8,6.5
+2018,2 Hour,20,Beth,McCrory,Dixon,IL,41,F,5,6
+2018,2 Hour,20,Aiden,Renshaw,NA,NA,NA,M,9,6
+2018,2 Hour,22,Reagan,Wood,NA,NA,NA,F,6,5.5
+2018,2 Hour,23,Robyn,Weidman,Dunlap,IL,33,F,7,5
+2018,2 Hour,24,Heidi,Rhea,NA,NA,NA,F,8,2
+2018,2 Hour,24,Hope,Sanders,NA,NA,NA,F,8,2
+2017,8 Hour,1,Chris,Silva,NA,IL,23,M,1,36.5
+2017,8 Hour,2,Matt,Robinson,NA,IL,40,M,2,33.5
+2017,8 Hour,3,Gabe,Trevino,West Peoria,IL,39,M,3,32.5
+2017,8 Hour,4,James,Middlemas,Mapleton,IL,44,M,4,31
+2017,8 Hour,5,Chad,Hazelwood,Pekin,IL,45,M,5,29
+2017,8 Hour,5,Tim,Leichtenberg,Pekin,IL,43,M,5,29
+2017,8 Hour,7,Keith,Aurand,Dixon,IL,51,M,6,27.5
+2017,8 Hour,8,Bob,McCrory,Dixon,IL,46,M,7,27
+2017,8 Hour,8,Mark,Wells,Peoria,IL,45,M,7,27
+2017,8 Hour,10,Sarah Jeanne,Olson,Canton,IL,48,F,1,26.5
+2017,8 Hour,11,Racine,Lambert-Cwerenz,Glendale Heights,IL,55,F,2,25
+2017,8 Hour,12,Phillip,Heinz,Pekin,IL,57,M,8,24.5
+2017,8 Hour,13,Shane,Westen,NA,NA,NA,M,9,24
+2017,8 Hour,14,Julia,Carrell,Peoria,IL,36,F,3,23
+2017,8 Hour,14,Clarice,Chick,Pekin,IL,40,F,3,23
+2017,8 Hour,14,Bill,Harrmann,East Peoria,IL,53,M,10,23
+2017,8 Hour,14,Mary,Hosbrough,Washington,IL,NA,F,3,23
+2017,8 Hour,14,Maurice,Wantiez,East Peoria,IL,45,M,10,23
+2017,8 Hour,19,Cody,Comstock,Pekin,IL,29,M,11,22
+2017,8 Hour,20,Sean,Ryan,Sterling,IL,NA,M,12,18
+2017,8 Hour,21,Jennifer,Jacobsen-Wood,Princeville,IL,45,F,4,17
+2017,8 Hour,21,Ridic,Wells,Peoria,IL,21,M,13,17
+2017,8 Hour,23,Jaemin,Chon,Peoria,IL,37,F,5,12
+2017,8 Hour,23,Michael,Dillard,East Peoria,IL,57,M,14,12
+2017,2 Hour,1,Mitch,Hurst,Delavan,IL,NA,M,1,11
+2017,2 Hour,1,Mike,Kelsey,Washington,IL,40,M,1,11
+2017,2 Hour,3,Cole,Stoner,Pekin,IL,29,M,2,10.5
+2017,2 Hour,4,Chad,Barnes,Peoria,IL,44,M,3,10
+2017,2 Hour,5,Cody,Renshaw,NA,IL,37,M,4,9.5
+2017,2 Hour,6,Brian,Dennison,Tremont,IL,39,M,5,9
+2017,2 Hour,6,Corey,Weaver,NA,NA,NA,M,5,9
+2017,2 Hour,6,Paul,Wilkerson,Metamora,IL,40,M,5,9
+2017,2 Hour,9,Leonard,Ealey,Tremont,IL,49,M,6,8.5
+2017,2 Hour,9,Lupe,Martinez,Peoria,IL,48,M,6,8.5
+2017,2 Hour,11,Tom,Svendsen,Pekin,IL,27,M,7,8
+2017,2 Hour,11,James,Thompson,East Peoria,IL,53,M,7,8
+2017,2 Hour,13,Rhonda,Heinz,Pekin,IL,52,F,1,7
+2017,2 Hour,13,Phillip,Trompeter,Germantown Hills,IL,45,M,8,7
+2017,2 Hour,15,Adam,Sterusky,Peoria,IL,31,M,9,6.5
+2017,2 Hour,16,Christy,Habel,Pekin,IL,47,F,2,6
+2017,2 Hour,17,Kelly,Stark,Peoria,IL,37,F,3,5.5
+2017,2 Hour,18,Bill,Holmes,Edelstein,IL,NA,M,10,5
+2017,2 Hour,18,Bev,Smith,Bloomington,IL,60,F,4,5
+2017,2 Hour,20,Mike,Lambert-Cwerenz,Glendale Heights,IL,NA,M,11,4
+2016,8 Hour,1,Tom,Wilson,Morton,IL,49,M,1,33.5
+2016,8 Hour,2,Chris,Silva,NA,IL,23,M,2,32.5
+2016,8 Hour,3,Abby,Bokus,Normal,IL,41,F,1,32
+2016,8 Hour,4,Tiffany,Dore,Oswego,IL,37,F,2,30
+2016,8 Hour,5,Clarice,Chick,Pekin,IL,40,F,3,28.5
+2016,8 Hour,5,Tim,Leichtenberg,Pekin,IL,42,M,3,28.5
+2016,8 Hour,5,Bill,McFeeters,Pekin,IL,34,M,3,28.5
+2016,8 Hour,5,Chuck,Schultz,Chicago,IL,63,M,3,28.5
+2016,8 Hour,9,Mike,Gensler,Petersburg,IL,40,M,4,26
+2016,8 Hour,9,Melissa,Pizarro,Chicago,IL,30,F,4,26
+2016,8 Hour,11,Kelly,Goforth,Oak Park,IL,38,F,5,25.5
+2016,8 Hour,11,Andrew,Schafer,Mackinaw,IL,NA,M,5,25.5
+2016,8 Hour,13,Juli,Aistars,Palatine,IL,57,F,6,25.2
+2016,8 Hour,14,Chad,Barnes,Peoria,IL,43,M,6,24
+2016,8 Hour,14,Christy,Dillard,East Peoria,IL,55,F,7,24
+2016,8 Hour,14,Christy,Habel,Pekin,IL,46,F,7,24
+2016,8 Hour,14,Amy,Kerrigan,Downers Grove,IL,44,F,7,24
+2016,8 Hour,18,Rachel,Head,El Paso,IL,23,F,8,23.5
+2016,8 Hour,18,Phillip,Heinz,Pekin,IL,56,M,7,23.5
+2016,8 Hour,18,Racine,Lambert-Cwerenz,Glendale Heights,IL,55,F,8,23.5
+2016,8 Hour,18,Mike,Lesniak,NA,NA,NA,M,7,23.5
+2016,8 Hour,18,Madalyn,O'Shaughnessy,NA,IL,18,F,8,23.5
+2016,8 Hour,23,Chuck,Meyer,Delavan,IL,63,M,8,23
+2016,8 Hour,24,Keith,Aurand,Dixon,IL,50,M,9,22.5
+2016,8 Hour,24,Bob,McCrory,Dixon,IL,45,M,9,22.5
+2016,8 Hour,26,Angela,Funk,Funks Grove,IL,40,F,9,22
+2016,8 Hour,27,Bill,Harrmann,East Peoria,IL,53,M,10,21.5
+2016,8 Hour,28,Julia,Carrell,Peoria,IL,35,F,10,21
+2016,8 Hour,28,Mary,Hosbrough,Washington,IL,NA,F,10,21
+2016,8 Hour,30,Scott,Finger,Aurora,IL,51,M,11,20
+2016,8 Hour,30,Elaine,Lagoda,East Peoria,IL,56,F,11,20
+2016,8 Hour,30,Leeann,Leaks,Decatur,IL,38,F,11,20
+2016,8 Hour,30,Victoria,Maske-Mendenall,Decatur,IL,37,F,11,20
+2016,8 Hour,30,Kristen,Olson,Bloomington,IL,41,F,11,20
+2016,8 Hour,30,Tonya,Siltman,Middletown,IL,44,F,11,20
+2016,8 Hour,30,Paul,Wilkerson,Metamora,IL,39,M,11,20
+2016,8 Hour,37,Amy,Briggs,Chicago,IL,48,F,12,18
+2016,8 Hour,37,Eddie,Lloyd,Bloomington,IL,53,M,12,18
+2016,8 Hour,39,Jayson,Blackowicz,Washington,IL,44,M,13,17.5
+2016,8 Hour,40,Jennifer,Jacobsen-Wood,Princeville,IL,44,F,13,16.5
+2016,8 Hour,41,Brian,Smock,Round Lake Beach,IL,48,M,14,16
+2016,8 Hour,42,Susan,Smock,Round Lake Beach,IL,38,F,14,14
+2016,8 Hour,43,Michael,Dillard,East Peoria,IL,58,M,15,12
+2016,8 Hour,43,Toby,Peplow,East Peoria,IL,42,F,15,12
+2016,8 Hour,43,Sean,Ryan,Sterling,IL,42,M,15,12
+2016,8 Hour,46,Mike,Siltman,Middletown,IL,47,M,16,6
+2016,2 Hour,1,Jason,Hurst,NA,IL,NA,M,1,12
+2016,2 Hour,2,Matt,Robinson,Peoria,IL,39,M,2,11
+2016,2 Hour,3,Jim,Jackson,Pekin,IL,45,M,3,10.5
+2016,2 Hour,3,Jeremy,Staats,Sterling,IL,35,M,3,10.5
+2016,2 Hour,3,Cole,Stoner,Pekin,IL,28,M,3,10.5
+2016,2 Hour,6,Tim,Lindner,Morton,IL,49,M,4,9.5
+2016,2 Hour,7,Carolyn,Sutter,Bloomington,IL,54,F,1,9
+2016,2 Hour,8,Matt,Hohulin,NA,NA,52,M,5,8.5
+2016,2 Hour,9,Maggie,Daly,NA,NA,NA,F,2,8
+2016,2 Hour,10,Sheila,Hansen,Peoria,IL,62,F,3,7.5
+2016,2 Hour,11,Jaime,Zaplatosch,Berwyn,IL,38,F,4,7
+2016,2 Hour,12,Tom,Nieukirk,NA,NA,43,M,6,6.5
+2016,2 Hour,12,Mark,Wells,Metamora,IL,44,M,6,6.5
+2016,2 Hour,14,Bill,Holmes,Edelstein,IL,68,M,7,6
+2016,2 Hour,14,Shalonda,Schafer,Mackinaw,IL,38,F,5,6
+2016,2 Hour,16,Rhonda,Heinz,Pekin,IL,51,F,6,5.5
+2016,2 Hour,17,Therese,Brink,Peoria,IL,58,F,7,5
+2016,2 Hour,18,Kristen,Cowan,NA,NA,NA,F,8,4.5
+2016,2 Hour,18,Jackie,Harrmann,East Peoria,IL,54,F,8,4.5
+2016,2 Hour,20,Mike,Lambert-Cwerenz,Glendale Heights,IL,NA,M,8,2

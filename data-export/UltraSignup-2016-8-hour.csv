@@ -1,0 +1,47 @@
+place,distance,first,last,age,gender,city,state
+1,33.5,Tom,Wilson,49,Male,Morton,IL
+2,32.5,Chris,Silva,23,Male,NA,IL
+3,32,Abby,Bokus,41,Female,Normal,IL
+4,30,Tiffany,Dore,37,Female,Oswego,IL
+5,28.5,Clarice,Chick,40,Female,Pekin,IL
+5,28.5,Tim,Leichtenberg,42,Male,Pekin,IL
+5,28.5,Bill,McFeeters,34,Male,Pekin,IL
+5,28.5,Chuck,Schultz,63,Male,Chicago,IL
+9,26,Mike,Gensler,40,Male,Petersburg,IL
+9,26,Melissa,Pizarro,30,Female,Chicago,IL
+11,25.5,Kelly,Goforth,38,Female,Oak Park,IL
+11,25.5,Andrew,Schafer,NA,Male,Mackinaw,IL
+13,25.2,Juli,Aistars,57,Female,Palatine,IL
+14,24,Chad,Barnes,43,Male,Peoria,IL
+14,24,Christy,Dillard,55,Female,East Peoria,IL
+14,24,Christy,Habel,46,Female,Pekin,IL
+14,24,Amy,Kerrigan,44,Female,Downers Grove,IL
+18,23.5,Rachel,Head,23,Female,El Paso,IL
+18,23.5,Phillip,Heinz,56,Male,Pekin,IL
+18,23.5,Racine,Lambert-Cwerenz,55,Female,Glendale Heights,IL
+18,23.5,Mike,Lesniak,NA,Male,NA,NA
+18,23.5,Madalyn,O'Shaughnessy,18,Female,NA,IL
+23,23,Chuck,Meyer,63,Male,Delavan,IL
+24,22.5,Keith,Aurand,50,Male,Dixon,IL
+24,22.5,Bob,McCrory,45,Male,Dixon,IL
+26,22,Angela,Funk,40,Female,Funks Grove,IL
+27,21.5,Bill,Harrmann,53,Male,East Peoria,IL
+28,21,Julia,Carrell,35,Female,Peoria,IL
+28,21,Mary,Hosbrough,NA,Female,Washington,IL
+30,20,Scott,Finger,51,Male,Aurora,IL
+30,20,Elaine,Lagoda,56,Female,East Peoria,IL
+30,20,Leeann,Leaks,38,Female,Decatur,IL
+30,20,Victoria,Maske-Mendenall,37,Female,Decatur,IL
+30,20,Kristen,Olson,41,Female,Bloomington,IL
+30,20,Tonya,Siltman,44,Female,Middletown,IL
+30,20,Paul,Wilkerson,39,Male,Metamora,IL
+37,18,Amy,Briggs,48,Female,Chicago,IL
+37,18,Eddie,Lloyd,53,Male,Bloomington,IL
+39,17.5,Jayson,Blackowicz,44,Male,Washington,IL
+40,16.5,Jennifer,Jacobsen-Wood,44,Female,Princeville,IL
+41,16,Brian,Smock,48,Male,Round Lake Beach,IL
+42,14,Susan,Smock,38,Female,Round Lake Beach,IL
+43,12,Michael,Dillard,58,Male,East Peoria,IL
+43,12,Toby,Peplow,42,Female,East Peoria,IL
+43,12,Sean,Ryan,42,Male,Sterling,IL
+46,6,Mike,Siltman,47,Male,Middletown,IL

@@ -1,0 +1,35 @@
+place,distance,first,last,age,gender,city,state
+1,41.5,Joe,Miller,29,Male,Springfield,IL
+2,39.5,Jason,Midlock,33,Male,Joliet,IL
+3,37.5,Gabe,Trevino,40,Male,Peoria,IL
+4,36,James,Faford,54,Male,Bradley,IL
+4,36,David,Failing,32,Male,Westmont,IL
+6,32,Chad,Hazelwood,46,Male,NA,IL
+7,30,Keith,Aurand,52,Male,Dixon,IL
+7,30,Gwen,Murphy,29,Female,West Chicago,IL
+9,29,Michelle,Burton,39,Female,Lombard,IL
+9,29,Steve,Hammann,62,Male,Muscatine,IA
+11,28.5,DJ,Hanna,30,Male,Marquette Heights,IL
+12,28,Bob,McCrory,47,Male,Dixon,IL
+13,27.5,Jim,Arnold,52,Male,La Grange,IL
+13,27.5,Mary,Leonard,36,Female,Manhattan,IL
+15,25.5,Shane,Westen,33,Male,Emden,IL
+16,25,Chris,Silva,25,Male,NA,IL
+18,23,Racine,Lambert-Cwerenz,56,Female,Glendale Heights,IL
+18,23,Holly,Lindroth,32,Female,Chicago,IL
+18,23,Linda,Lopez,50,Female,Chicago,IL
+20,22.5,Arizona,Lagousakos,48,Female,Chicago,IL
+21,21,Bill,Harrmann,54,Male,East Peoria,IL
+22,19,Bill,Comstock,NA,Male,Pekin,IL
+22,19,Cody,Comstock,30,Male,Pekin,IL
+23,18,Sean,Ryan,44,Male,Sterling,IL
+24,16,Julia,Carrell,37,Female,East Peoria,IL
+28,14,Jim,Briscoe,58,Male,DeKalb,IL
+28,14,James,Middlemas,45,Male,Mapleton,IL
+28,14,Toby,Peplow,NA,Female,East Peoria,IL
+29,12.5,James,Thompson,54,Male,East Peoria,IL
+30,12,Therese,Brink,60,Female,Peoria,IL
+30,12,Christy,Dillard,57,Female,Morton,IL
+32,10,Mike,Lambert-Cwerenz,NA,Male,Glendale Heights,IL
+32,10,Stacy,Greenburg,36,Female,Wheeling,IL
+34,5,Jennifer,Jacobsen-Wood,46,Female,Princeville,IL

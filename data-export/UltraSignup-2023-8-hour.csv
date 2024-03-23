@@ -1,0 +1,44 @@
+place,distance,first,last,age,gender,city,state
+1,45.5,James,Solomon,32,Male,Villa Park,IL
+2,41,Matt,Hajny,46,Male,Washington,IL
+3,40.5,Jason,Midlock,38,Male,Joliet,IL
+4,40,Michael,Braun,27,Male,Hudson,IL
+5,37.5,Andy,Bloom,36,Male,Pekin,IL
+6,37,Rachel,Reyes,35,Female,Joliet,IL
+6,37,Matthias,Kemmeren,44,Male,Dixon,IL
+8,36.5,Nathan,Castillo,32,Male,Sterling,IL
+9,34.5,Brook,Stanbary,48,Male,Putnam,IL
+9,34.5,Jim,Katter,NA,Male,NA,NA
+11,33,Chad,Hazelwood,51,Male,Pekin,IL
+12,32.5,Hassen,Drissi,NA,Male,NA,IL
+13,31.5,Rob,Judd,47,Male,Bloomington,IL
+13,31.5,Jeff,Brown,40,Male,Sterling,IL
+15,31,Tara,Flesch,43,Female,Princeton,IA
+16,30.5,John,Larson,42,Male,Divernon,IL
+16,30.5,Dave,Hosbrough,45,Male,Creve Coeur,IL
+18,30,Erin,Montgomery,43,Female,Clinton,IA
+18,30,Ginger,Aschenbrenner,45,Female,Athens,IL
+18,30,Chris,Braun,25,Male,Madison,WI
+21,29,Keith,Aurand,57,Male,Dixon,IL
+22,28,Erica,Heshelman,41,Female,Janesville,WI
+23,24.5,Paul,Wilkerson,46,Male,Metamora,IL
+24,23.5,Elizabeth,Lara,48,Female,Glendale,WI
+24,23.5,Jim,Arnold,57,Male,La Grange,IL
+26,22,Frank,Hardy,45,Male,NA,IL
+27,20,Mary,Stanbary,46,Female,Putnam,IL
+27,20,Doug,Camp,52,Male,Fort Wayne,IN
+29,19.5,Racine,Lambert-Cwerenz,61,Female,Glendale Heights,IL
+30,18.5,Jill,Moser,48,Female,Morton,IL
+31,18,Reagan,Wood,NA,Female,NA,NA
+31,18,Erik,Savickas,NA,Male,NA,NA
+33,16.5,Scott,Nailor,51,Male,Winnebago,IL
+33,16.5,Dawn,Nailor,53,Female,Winnebago,IL
+35,14,Annie,Newman,49,Female,Brownsburg,IN
+36,13,Vivian,Briscoe,61,Female,DeKalb,IL
+37,12,Nancy,Braun,59,Female,Towanda,IL
+38,10,Troy,Pequette,52,Male,Washington,IL
+38,10,Bob,McCrory,NA,Male,Dixon,IL
+40,8,Sophie,Russell,NA,Female,Peoria,IL
+40,8,Lori,Cepa,37,Female,Chicago,IL
+42,6,Linda,Cepa,66,Female,Homer Glen,IL
+43,4,Therese,Brink,65,Female,Peoria,IL

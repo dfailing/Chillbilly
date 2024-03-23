@@ -1,0 +1,30 @@
+place,distance,first,last,age,gender,city,state
+1,40,James,Solomon,33,Male,Villa Park,IL
+2,39.5,Mark,Holcomb,40,Male,Bloomington,IL
+3,37,Michael,Braun,28,Male,Hudson,IL
+4,32.5,Morgan,Mader,39,Female,Villa Park,IL
+4,32.5,Dave,Pettett,43,Male,NA,IL
+4,32.5,Amy,Reau,47,Female,Metamora,IL
+5,31,Brook,Stanbary,49,Male,Putnam,IL
+6,30.5,Todd,Baker,49,Male,Morton,IL
+7,28.5,Christopher,Wood,27,Male,Morton,IL
+8,27.5,Dave,Hosbrough,46,Male,Creve Coeur,IL
+8,27.5,Devin,Jefferson,26,Male,Clinton,IL
+9,24.5,Rob,Judd,48,Male,Bloomington,IL
+10,24,Andrew,Janesko,27,Male,Lawrence,KS
+10,24,Spencer,Swearingen,45,Male,Morton,IL
+11,22,Jared,Alig,44,Male,Metamora,IL
+11,22,Ian,McKay,32,Male,NA,NA
+12,20,Jason,Young,43,Male,Chillicothe,IL
+13,18,Tara,Mayner,53,Female,Bloomington,IL
+14,16,Matt,Hajny,47,Male,Washington,IL
+15,14,Jim,Arnold,58,Male,La Grange,IL
+15,14,Frank,Hardy,46,Male,Marquette Heights,IL
+16,12,Jill,Moser,49,Female,Morton,IL
+17,10,Abby,Bokus,49,Female,Normal,IL
+17,10,Brandon,Endres,33,Male,East Peoria,IL
+17,10,Erin,Furimsky,48,Female,Bloomington,IL
+17,10,Claire,Hedden,46,Female,Normal,IL
+17,10,Mary,Stanbary,47,Female,Putnam,IL
+17,10,Stan,Winterroth,75,Male,Bloomington,IL
+18,6,Julia,Carrell,43,Female,East Peoria,IL
